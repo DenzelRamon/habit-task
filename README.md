@@ -7,7 +7,7 @@ vacíos o con la forma de cada clase, **sin lógica de negocio**.
 - Framework: **Flutter**
 - Arquitectura: **MVVM** (Model - View - ViewModel)
 - Patrones: **Repository** (abstrae las fuentes de datos) y **Singleton** (preferencias y conexiones globales)
-- Diseño: [Prototipo en Figma](PEGAR-AQUI-EL-ENLACE-PUBLICO-DE-FIGMA)
+- Diseño: [Prototipo en Figma](https://www.figma.com/design/SHNoMoZyyHiOR8es8ETL3c/Habit-Task?node-id=3-2&t=Xu52lUOx8L88mGRc-1)
 
 ## Pantallas
 
