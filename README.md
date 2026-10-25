@@ -69,10 +69,3 @@ flutter create . --project-name habit_task --platforms=android,ios
 flutter pub get
 flutter run
 ```
-
-## Pendiente
-
-- [ ] Reemplazar los colores de `lib/core/theme/app_colors.dart` por los del Figma.
-- [ ] Agregar la fuente del diseño en `assets/fonts/` y declararla en `pubspec.yaml`.
-- [ ] Implementar la lógica de cada ViewModel y Repository.
-- [ ] Pegar en este README el enlace público de Figma.
